@@ -1,0 +1,20 @@
+.Team{
+    padding: 100px 0;
+}
+.Team-main h4{
+    font-weight: 700;
+font-size: 25px;
+line-height: 120%;
+color: #0BCD82;
+}
+.Team-main p{
+    font-weight: 400;
+font-size: 20px;
+line-height: 120%;
+color: #282B78;
+}
+.Team-main{
+    background: #D8FEEF;
+border: 0.773664px solid #A5F8D7;
+border-radius: 7.71734px;
+}

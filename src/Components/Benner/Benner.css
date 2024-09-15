@@ -1,0 +1,54 @@
+.Benner {
+
+    padding: 40px 20px 100px 20px;
+}
+
+.Benner h1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #282B78;
+}
+
+.benner-watch {
+    background-color: #0bcd8300;
+    color: #0BCD82;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.benner-btn img {
+    width: 40px;
+
+}
+
+.Benner h2 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    color: #0BCD82;
+}
+
+.chanj img {
+    width: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+    .Benner h1 {
+        font-size: 30px;
+    }
+
+    .Benner h2 {
+        font-size: 35px;
+    }
+
+    .Benner-img img {
+        margin-top: 45px;
+
+    }
+
+    .Benner {
+        padding: 40px 20px 50px 20px;
+    }
+}

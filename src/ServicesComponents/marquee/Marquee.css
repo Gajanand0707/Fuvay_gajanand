@@ -1,0 +1,8 @@
+.Marquee img{
+    width: 100%;
+    max-width: 161px;
+}
+.Marquee{
+    padding: 100px 0;
+    background-color: #282B78;
+}

@@ -1,0 +1,37 @@
+<svg width="1440" height="1729" viewBox="0 0 1440 1729" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1502_2)">
+<ellipse cx="319.5" cy="956" rx="432.5" ry="461" fill="#E7E7F6"/>
+</g>
+<circle cx="67.5906" cy="71.0818" r="2.76497" transform="rotate(4.10735 67.5906 71.0818)" fill="#AC7D1E"/>
+<circle cx="333.499" cy="166.686" r="1.65898" transform="rotate(4.10735 333.499 166.686)" fill="#AC7D1E"/>
+<circle cx="341.362" cy="211.604" r="1.65898" transform="rotate(4.10735 341.362 211.604)" fill="#A952D1"/>
+<circle cx="389.613" cy="141.886" r="2.76497" transform="rotate(4.10735 389.613 141.886)" fill="#3CEA2E"/>
+<circle cx="109.268" cy="193.274" r="4.42395" transform="rotate(4.10735 109.268 193.274)" fill="#9173E5"/>
+<circle cx="81.7905" cy="27.748" r="2.76497" transform="rotate(4.10735 81.7905 27.748)" fill="#9D4DC6"/>
+<circle cx="181.234" cy="133.021" r="6.63593" transform="rotate(4.10735 181.234 133.021)" fill="#04C25A"/>
+<circle cx="325.179" cy="182.167" r="4.42395" transform="rotate(4.10735 325.179 182.167)" fill="#FE0200"/>
+<circle cx="456.362" cy="123.394" r="7.18892" transform="rotate(4.10735 456.362 123.394)" fill="#04C25A"/>
+<circle cx="391.696" cy="51.1112" r="3.87096" transform="rotate(4.10735 391.696 51.1112)" fill="#9176D8"/>
+<circle cx="119.585" cy="103.645" r="2.76497" transform="rotate(4.10735 119.585 103.645)" fill="#49DF33"/>
+<circle cx="482.73" cy="4.72945" r="4.42395" transform="rotate(4.10735 482.73 4.72945)" fill="#FE0200"/>
+<circle cx="282.927" cy="656.244" r="4.2439" fill="#8F74DF"/>
+<circle cx="287.171" cy="743.244" r="3.18293" fill="#3DE52F"/>
+<circle cx="366.213" cy="809.555" r="4.77439" fill="#3E25D0"/>
+<circle cx="234.122" cy="770.829" r="2.12195" fill="#BB8627"/>
+<circle cx="245.793" cy="812.207" r="2.12195" fill="#A54FC9"/>
+<circle cx="488.756" cy="681.707" r="4.2439" fill="#FF0000"/>
+<circle cx="348.707" cy="718.841" r="7.42683" fill="#12BC61"/>
+<circle cx="1392.32" cy="786.521" r="4.2439" transform="rotate(42.4777 1392.32 786.521)" fill="#8F74DF"/>
+<circle cx="1336.69" cy="853.553" r="3.18293" transform="rotate(42.4777 1336.69 853.553)" fill="#3DE52F"/>
+<circle cx="1350.21" cy="955.838" r="4.77439" transform="rotate(42.4777 1350.21 955.838)" fill="#3E25D0"/>
+<circle cx="1278.94" cy="838.074" r="2.12195" transform="rotate(42.4777 1278.94 838.074)" fill="#BB8627"/>
+<circle cx="1259.61" cy="876.474" r="2.12195" transform="rotate(42.4777 1259.61 876.474)" fill="#A54FC9"/>
+<circle cx="1398.56" cy="877.111" r="7.42683" transform="rotate(42.4777 1398.56 877.111)" fill="#12BC61"/>
+<defs>
+<filter id="filter0_f_1502_2" x="-424.676" y="183.324" width="1488.35" height="1545.35" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="155.838" result="effect1_foregroundBlur_1502_2"/>
+</filter>
+</defs>
+</svg>

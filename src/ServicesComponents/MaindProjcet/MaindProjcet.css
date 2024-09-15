@@ -1,0 +1,25 @@
+.MaindProjcet{
+padding: 150px 20px;
+background-image: url(../../Imgs/ser-bg.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.Email-compy  {
+    padding: 50px 30px;
+    background-color: #ffff;
+}
+.Email-compy h3{
+    font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+color: #000000;
+}
+.Email-compy p{
+    font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+color: #727272;
+}
+
+

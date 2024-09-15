@@ -1,0 +1,70 @@
+.con img {
+    width: 50px;
+
+}
+
+.Footer {
+    background-color: #0BCD82;
+    color: #E8E8E8;
+    padding: 100px 20px 50px 20px;
+}
+
+.Footer-link-1 a {
+    display: block;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 250%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.Footer h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 151.52%;
+}
+
+.Social-icons {
+    width: 50px;
+}
+
+.icon-box p {
+    margin: 5px;
+    font-weight: 400;
+}
+
+.footer-p {
+    max-width: 353px;
+}
+
+.Copyrigh {
+    background-color: #0BCD82;
+    color: #E8E8E8;
+    padding: 10px 20px;
+    border-top: 1px solid #24E098;
+}
+
+.Copyrigh-sec {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 768px) {
+    .Footer {
+
+        padding: 50px 20px;
+    }
+
+
+
+    .Copyrigh p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 250%;
+        color: #FFFFFF;
+
+    }
+}

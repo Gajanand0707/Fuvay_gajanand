@@ -1,0 +1,114 @@
+.color-blu {
+    color: #282B78;
+}
+
+img {
+    width: 100%;
+}
+
+.container-main {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.color-green {
+    color: #0BCD82;
+}
+
+.button-main {
+    background-color: #0BCD82;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+
+.Fuvay-p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 145%;
+    color: #363636;
+
+}
+
+.Fuvay-h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 120%;
+    color: #282B78;
+}
+
+.Fuvay-h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 120%;
+    color: #0BCD82;
+}
+
+.bler-bg {
+    background-image: url(../Imgs/bg-dot2.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg-blor-abuot {
+    background-image: url(../Imgs/Abuot-blor-fast.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+}
+.Page-Benner {
+    padding: 80px 20px 65px 20px;
+    background-image: url(../Imgs/main-img-abuot.png);
+    background-position: center;
+    background-size: 94%;
+    background-repeat: no-repeat;
+    background-color: #e9f4f0;
+}
+
+.Page-Benner h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #282B78;
+}
+
+.Page-Benner h2 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    color: #0BCD82;
+}
+
+.Page-Benner p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 145%;
+    color: #363636;
+    max-width: 743px;
+}
+
+.Page-Benner svg {
+    font-size: 50px;
+    color: #282B78;
+}
+
+.Page-Benner img {
+    width: 100%;
+    max-width: 641px;
+    margin-bottom: -29px;
+}
+@media only screen and (max-width: 768px) {
+    .Fuvay-h2 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .Fuvay-h3 {
+        font-size: 22px;
+    }
+}

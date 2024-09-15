@@ -1,0 +1,47 @@
+.Serviceour{
+    padding: 100px 20px;
+}
+.green-box img{
+    max-width: 38px;
+}
+.green-box {
+    background: #0BCD82;
+    padding: 27px 0;
+    border-radius: 10px;
+}
+.green-box p{
+    max-width: 730px;
+    padding: 0px 80px;
+}
+.green-img2{
+    margin-right: 100px;
+    margin-top: -30px;
+}
+.green-img1{
+    margin-left: 30px;
+   
+}
+.contect-ser ,.Accordionser{
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.contect-ser form input ,.contect-ser form textarea {
+    padding-bottom: 26px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    background-color: transparent
+}
+input:focus-visible ,textarea:focus-visible{
+    outline: none;
+}
+.accordion-item{
+    border: none !important;
+
+}
+button.accordion-button.collapsed {
+    background: #F1F9F6;
+    margin-bottom: 20px;
+  
+}

@@ -1,0 +1,62 @@
+.Works {
+    padding: 50px 20px 50px 20px;
+}
+
+.Digital {
+    padding: 24px 25px;
+    background: #FFFFFF;
+    box-shadow: -12px 12px 12px rgba(0, 0, 0, 0.02);
+    border-radius: 18px;
+}
+
+.Digital button {
+    background-color: #ffffff00;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 120%;
+    color: #000000;
+    border: none;
+
+}
+
+.about-img img {
+    max-width: 556px;
+}
+
+.Digital h4 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.Digital p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 145%;
+    color: #363636;
+}
+
+.Digital img {
+    width: 91px;
+}
+
+@media only screen and (max-width: 768px) {
+    .Works .Works-box {
+        display: block !important;
+
+    }
+
+    .Digital {
+        margin-bottom: 20px;
+    }
+
+    .about-img {
+        margin-bottom: 50px;
+    }
+
+    .ms-3.Works-text {
+        margin: 0px !important;
+    }
+}

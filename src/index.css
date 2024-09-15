@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Nunito, sans-serif;
+  scroll-behavior: smooth;
+  background-color: #f1f9f6 !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: 'Inter';
+}

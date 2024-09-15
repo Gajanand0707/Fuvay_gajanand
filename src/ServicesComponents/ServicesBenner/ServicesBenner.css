@@ -1,0 +1,37 @@
+.Services{
+    padding: 100px 20px;
+}
+
+.Services-box h5{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.Services-box p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #727272;
+}
+
+.Services-box button{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #282B78;
+    border: none;
+    background-color: #ffffff;
+}
+.Services-box{
+    padding: 32px;
+    background-color: #ffff;
+    max-width: 273px;
+    box-shadow: 0px 9.10606px 13.6591px rgba(203, 215, 243, 0.37);
+border-radius: 12px;
+}
+.Services-box img{
+width: 100%;
+max-width: 58px;
+}

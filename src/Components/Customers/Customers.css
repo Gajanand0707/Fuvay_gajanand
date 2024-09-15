@@ -1,0 +1,138 @@
+.Customers {
+    padding: 100px 20px;
+    background-image: url(../../Imgs/dot-bg.svg);
+    background-position: top 10% right 24%;
+    ;
+    background-repeat: no-repeat;
+}
+
+.carousel-caption {
+    padding: 38px 30px;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 25px;
+    width: 556px;
+    position: absolute;
+    right: 12% !important;
+    bottom: -4.75rem !important;
+    left: 9% !important;
+    text-align: left !important;
+}
+
+.slid-h3 {
+    font-size: 20px;
+    line-height: 170%;
+    color: #363636;
+}
+
+.carousel {
+    position: relative;
+    height: 563px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    max-width: 515px;
+}
+
+.retting img {
+    height: 19px;
+    width: 100px;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: visible !important;
+}
+
+.span-form svg {
+    font-size: 25px;
+    color: #0BCD82;
+}
+
+.span-form {
+    height: 54px;
+    width: 54px;
+    border: 1px solid #0BCD82;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.form-customer input[type="text"]:focus-visible {
+    outline: none;
+}
+
+.form-customer input[type="text"] {
+    height: 54px;
+
+    padding: 0 40px;
+    background-color: #f0f8ff00;
+    border-bottom: 1px solid #0BCD82;
+    border-left: 1px solid #0BCD82;
+    border-top: 1px solid #0BCD82;
+    border-right: 0px solid #0BCD82;
+    border-radius: 100px 0px 0px 100px;
+    margin-right: -25px;
+
+}
+
+@media only screen and (max-width: 1110px) {
+    .carousel-caption {
+        padding: 38px 30px;
+        background-color: #ffffff;
+        color: #000;
+        border-radius: 25px;
+        width: 556px;
+        position: absolute;
+        right: 5% !important;
+        bottom: -4.75rem !important;
+        left: 2% !important;
+        text-align: left !important;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 1110px) {
+    .carousel {
+        position: relative;
+        height: auto;
+        overflow: hidden !;
+    }
+
+    .carousel-caption {
+        margin-top: -100px;
+        z-index: 9999;
+        position: static !important;
+        width: auto;
+
+    }
+
+    .carousel-item img {
+        max-width: 100%;
+    }
+
+    .carousel-item img {
+        max-width: 515px;
+        z-index: -1;
+        position: relative;
+    }
+
+    .retting img {
+        z-index: 1 !important;
+    }
+
+    .Customers-text {
+        margin-top: 50px;
+    }
+
+    .Customers {
+        padding: 0px 20px 40px 20px;
+    }
+
+}

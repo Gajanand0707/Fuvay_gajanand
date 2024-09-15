@@ -1,0 +1,62 @@
+.PriceTable-main{
+    background-color: #ffffff  ;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+}
+.PriceTable{
+    padding: 100px 20px;
+  
+}
+.PriceTable-main h2{
+    background-color: #0BCD82;
+    border-radius: 15px 15px 0px 0px;
+    font-weight: 700;
+    font-size: 25px;
+    padding-left: 35px;
+    line-height: 30px;
+}
+.list-main{
+    padding: 30px 35px 55px 35px;
+}
+.PriceTable-main h3{
+    font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #282B78;
+}
+.PriceTable-main h3 span{
+    font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+color: #282B78;
+}
+.PriceTable-main p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+color: #727272;
+border-bottom: 1px solid #ccc;
+padding-bottom: 20px;
+margin-bottom: 30px;
+}
+.PriceTable-main button{
+    font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+background: #282B78;
+border-radius: 3px;
+border: none;
+padding: 11px 0;
+}
+.Table-list p{
+    font-weight: 500;
+font-size: 15px !important;
+line-height: 18px;
+color: #000000;
+border: none;
+padding: 0px;
+margin: 0;
+}
+.Table-list img{
+    max-width: 15px;
+}

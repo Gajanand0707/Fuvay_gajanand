@@ -1,0 +1,29 @@
+.Logosmove img {
+    width: 174px;
+    margin-right: 40px;
+    height: 81px;
+}
+
+.Logosmove {
+    padding: 0px 20px 50px 20px;
+}
+
+.Logosmove h2 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #282B78;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+    .Logosmove img {
+        width: 120px;
+        margin-right: 40px;
+        height: 60px;
+    }
+
+    .Logosmove {
+        padding: 0px 20px 0px 20px;
+    }
+}

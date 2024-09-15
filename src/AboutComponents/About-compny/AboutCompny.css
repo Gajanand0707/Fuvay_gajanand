@@ -1,0 +1,25 @@
+.Marketing img {
+    width: 100%;
+    max-width: 48px;
+}
+
+.AboutCompny {
+    padding: 100px 20px;
+    background-image: url(../../Imgs/Dots-bg.svg);
+    background-position: 90% 95%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
+
+.Marketing button {
+    padding: 16px 22px;
+    border: 1px solid #96FFD6;
+    background-color: #E9F4F0;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 98.7%;
+    color: #000000;
+}

@@ -1,0 +1,35 @@
+.Discover {
+    padding: 120px 20px;
+    background-image: url(../../Imgs/green.bler.svg);
+}
+
+.Products {
+    width: 224.72px;
+    height: 184.51px;
+    padding-top: 36px;
+    background: #EEF4F6;
+    border: 0.790468px solid #D9D9F4;
+    border-radius: 7.88497px;
+
+}
+
+.Discover-Fuvay-Technologies-text p {
+    max-width: 491px;
+}
+
+.Products img {
+    width: 100%;
+    max-width: 65px;
+}
+
+.Products h4 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%;
+}
+
+.Discover-Fuvay-Technologies {
+    padding: 62px 72px;
+    background-color: #E7E8F6;
+    margin-top: 90px;
+}
